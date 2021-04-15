@@ -4,7 +4,7 @@
 
 ---
 
-<img src="static/card.jpg" alt="Preview" width="400" />
+<img src="preview.gif" alt="Preview" width="500" />
 
 Special thanks and credit to [this CodePen](https://codepen.io/quentin-feret/pen/KKazpBm) for the original idea and
 creation of the lightspeed effect.
